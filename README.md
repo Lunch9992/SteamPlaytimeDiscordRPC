@@ -1,4 +1,4 @@
-# SteamToDiscordStatsRPC
+# SteamPlaytimeDiscordRPC
 
 ## Installation
 
@@ -24,6 +24,6 @@ Create a file called `auto-rpc.vbs`, ensure it has the **VBScript Script File** 
 Add the following code, however replace the directory listed with the directory leading to the installed repo files:
 ```sh
 Set shell = CreateObject("WScript.Shell")
-shell.CurrentDirectory = "C:\Users\freel\Downloads\SteamToDiscordStatsRPC"
+shell.CurrentDirectory = "C:\Users\freel\Downloads\SteamPlaytimeDiscordRPC"
 shell.Run "start.bat"
 ```
