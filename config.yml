@@ -1,0 +1,19 @@
+#Application's Client ID (!DO NOT TOUCH! -> IF YOU AREN'T ADDING YOUR OWN LargeImageName OR SmallImageName)
+clientid: "819094395017756683"
+
+#Put your Steam User ID Here. E.g: 76561198799290355
+steamid: "CHANGE_THIS"
+
+#Put your Steam API Key Here. You can go to https://steamcommunity.com/dev/apikey to obtain an API key.
+steamapi: "CHANGE_THIS"
+
+#Put the Game that you want to display (Needs to be the exact name, e.g. SCP Secret Laboratory needs to be 'SCP: Secret Laboratory'). Check ownedgames.txt after you start the client for a list of games that you own.
+SteamGameName: "CHANGE_THIS"
+
+#Large Image Properties. Input 'none' if you don't want this enabled.
+LargeImageName: "pantheon"
+LargeImageText: "discord.gg/pantheon"
+
+#Small Image Properties. Input 'none' if you don't want this enabled.
+SmallImageName: "none"
+SmallImageText: ""
